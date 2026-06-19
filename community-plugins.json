@@ -34326,5 +34326,12 @@
     "author": "c-miles",
     "description": "Render your vault's link graph as a cinematic, auto-rotating 3D orrery: bloom-lit nodes, a nebula backdrop, and a starfield. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "c-miles/orrery"
+  },
+  {
+    "id": "word-scalpel",
+    "name": "Word Scalpel",
+    "author": "Grich Hiranyaphinant",
+    "description": "Fixes Option+Backspace to delete one word at a time in Thai and Japanese text, instead of the entire sentence.",
+    "repo": "GrichSHiran/obsidian-word-scalpel"
   }
 ]
